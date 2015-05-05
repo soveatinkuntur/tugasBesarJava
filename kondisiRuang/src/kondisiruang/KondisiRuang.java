@@ -10,23 +10,23 @@ package kondisiruang;
  * @author Soveatin
  */
 public class KondisiRuang {
-  private int panjang;
-  private int lebar;
-  private int kondisiLantai;
-  private int kondisiDinding;
-  private int kondisiAtap;
-  private int kondisiPintu;
-  private int kondisiJendela;
-  private int sirkulasiUdara;
-  private int nilaiPencahayaan;
-  private int kelembaban;
-  private int suhu;
-  private int kebisingan;
-  private int bau;
-  private int kebocoran;
-  private int kerusakan;
-  private int keausan;
-  private int kekokohan;
+   int panjang;
+   int lebar;
+   int kondisiLantai;
+   int kondisiDinding;
+   int kondisiAtap;
+   int kondisiPintu;
+   int kondisiJendela;
+   int sirkulasiUdara;
+   int nilaiPencahayaan;
+   int kelembaban;
+   int suhu;
+   int kebisingan;
+   int bau;
+   int kebocoran;
+   int kerusakan;
+   int keausan;
+   int kekokohan;
 
     public int getPanjang() {
         return panjang;
